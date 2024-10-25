@@ -11,7 +11,7 @@ This is a Kotlin Multiplatform project targeting Android, iOS.
   you need this entry point for your iOS app. This is also where you should add SwiftUI code for your project.
 
 
-![Alt text describing the image](homepage-screen)
+<img src="homepage-screen" alt="App Screenshot" width="250"/>
 
 
 
